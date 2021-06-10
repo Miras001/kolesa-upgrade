@@ -1,0 +1,3 @@
+tests\acceptance\CheckListCest.php:checkCardViev
+tests\acceptance\CheckTextCest.php:checkTextThroughtModalWindow
+tests\acceptance\ErrorBlockCest.php:checkErrorBlock
